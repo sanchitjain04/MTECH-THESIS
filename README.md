@@ -12,8 +12,8 @@ small and hardly visible parts, occlusions and huge variability in articulations
 image processing models, convolutional neural networks (CNNs) comes to the rescue.
 
 
-In this report I included different approaches for human pose estimation, literature
+In this report I have included different approaches for human pose estimation, literature
 survey of major approaches for pose estimation, detailed analysis, showed how wec can
 use activity recognition as a use case using estimating of pose for instance here i used
 drowning detection as an example, also comparison study of Performance of various deep
-learning models like mobilenet on various Datasets like COCO Dataset
+learning models like mobilenet on COCO Dataset.
